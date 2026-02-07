@@ -1,16 +1,16 @@
-## Hi there 👋
+# Anamika Saini
 
-<!--
-**Anamika663/Anamika663** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+BTech Computer Science student with an interest in frontend web development.  
+Focused on building clean, responsive user interfaces and strengthening core web skills.
 
-Here are some ideas to get you started:
+## Skills
+- 🌐 HTML, CSS, JavaScript, React  
+- 🛠️ Git, GitHub, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Frontend projects focused on UI development and web fundamentals  
+- Academic and personal mini projects  
+
+## Connect
+- LinkedIn: https://www.linkedin.com/in/anamika-saini-3705862a2
